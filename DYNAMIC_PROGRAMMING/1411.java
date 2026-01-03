@@ -13,3 +13,5 @@ class Solution {
         return (int)((aba+abc)%MOD);
     }
 }
+// time complexity: O(n)
+// space complexity: O(1)
